@@ -1,0 +1,1 @@
+Regular|101|Test User|90|80|70|60|50
